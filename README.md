@@ -13,7 +13,7 @@ A three-tier evolution of a network reconnaissance tool built with Python, movin
 ### 🚀 Getting Started
 
 1. **Prerequisites**: Python 3.x installed. 
-2. **Installation**: Clone this repository and ensure the `zxcvbn` library is available if using the password integration modules.
+2. **Installation**: Clone this repository.
 3. **Execution**: Run the script from your terminal:
    ```bash
    python scanner_v1.py
